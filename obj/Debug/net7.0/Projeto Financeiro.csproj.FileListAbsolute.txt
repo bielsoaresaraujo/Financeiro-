@@ -1,0 +1,61 @@
+C:\Users\mathe\source\repos\Projeto Financeiro\Projeto Financeiro\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\mathe\source\repos\Projeto Financeiro\Projeto Financeiro\bin\Debug\net7.0\appsettings.json
+C:\Users\mathe\source\repos\Projeto Financeiro\Projeto Financeiro\bin\Debug\net7.0\Projeto Financeiro.staticwebassets.runtime.json
+C:\Users\mathe\source\repos\Projeto Financeiro\Projeto Financeiro\bin\Debug\net7.0\Projeto Financeiro.exe
+C:\Users\mathe\source\repos\Projeto Financeiro\Projeto Financeiro\bin\Debug\net7.0\Projeto Financeiro.deps.json
+C:\Users\mathe\source\repos\Projeto Financeiro\Projeto Financeiro\bin\Debug\net7.0\Projeto Financeiro.runtimeconfig.json
+C:\Users\mathe\source\repos\Projeto Financeiro\Projeto Financeiro\bin\Debug\net7.0\Projeto Financeiro.dll
+C:\Users\mathe\source\repos\Projeto Financeiro\Projeto Financeiro\bin\Debug\net7.0\Projeto Financeiro.pdb
+C:\Users\mathe\source\repos\Projeto Financeiro\Projeto Financeiro\obj\Debug\net7.0\Projeto Financeiro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\source\repos\Projeto Financeiro\Projeto Financeiro\obj\Debug\net7.0\Projeto Financeiro.AssemblyInfoInputs.cache
+C:\Users\mathe\source\repos\Projeto Financeiro\Projeto Financeiro\obj\Debug\net7.0\Projeto Financeiro.AssemblyInfo.cs
+C:\Users\mathe\source\repos\Projeto Financeiro\Projeto Financeiro\obj\Debug\net7.0\Projeto Financeiro.csproj.CoreCompileInputs.cache
+C:\Users\mathe\source\repos\Projeto Financeiro\Projeto Financeiro\obj\Debug\net7.0\Projeto Financeiro.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mathe\source\repos\Projeto Financeiro\Projeto Financeiro\obj\Debug\net7.0\Projeto Financeiro.RazorAssemblyInfo.cache
+C:\Users\mathe\source\repos\Projeto Financeiro\Projeto Financeiro\obj\Debug\net7.0\Projeto Financeiro.RazorAssemblyInfo.cs
+C:\Users\mathe\source\repos\Projeto Financeiro\Projeto Financeiro\obj\Debug\net7.0\staticwebassets\msbuild.Projeto Financeiro.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\mathe\source\repos\Projeto Financeiro\Projeto Financeiro\obj\Debug\net7.0\staticwebassets\msbuild.build.Projeto Financeiro.props
+C:\Users\mathe\source\repos\Projeto Financeiro\Projeto Financeiro\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Projeto Financeiro.props
+C:\Users\mathe\source\repos\Projeto Financeiro\Projeto Financeiro\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Projeto Financeiro.props
+C:\Users\mathe\source\repos\Projeto Financeiro\Projeto Financeiro\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\mathe\source\repos\Projeto Financeiro\Projeto Financeiro\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\mathe\source\repos\Projeto Financeiro\Projeto Financeiro\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\mathe\source\repos\Projeto Financeiro\Projeto Financeiro\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\mathe\source\repos\Projeto Financeiro\Projeto Financeiro\obj\Debug\net7.0\scopedcss\bundle\Projeto Financeiro.styles.css
+C:\Users\mathe\source\repos\Projeto Financeiro\Projeto Financeiro\obj\Debug\net7.0\scopedcss\projectbundle\Projeto Financeiro.bundle.scp.css
+C:\Users\mathe\source\repos\Projeto Financeiro\Projeto Financeiro\obj\Debug\net7.0\Projeto Financeiro.dll
+C:\Users\mathe\source\repos\Projeto Financeiro\Projeto Financeiro\obj\Debug\net7.0\refint\Projeto Financeiro.dll
+C:\Users\mathe\source\repos\Projeto Financeiro\Projeto Financeiro\obj\Debug\net7.0\Projeto Financeiro.pdb
+C:\Users\mathe\source\repos\Projeto Financeiro\Projeto Financeiro\obj\Debug\net7.0\Projeto Financeiro.genruntimeconfig.cache
+C:\Users\mathe\source\repos\Projeto Financeiro\Projeto Financeiro\obj\Debug\net7.0\ref\Projeto Financeiro.dll
+C:\Users\gabri\OneDrive\Desktop\Projeto Financeiro\Projeto Financeiro\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\gabri\OneDrive\Desktop\Projeto Financeiro\Projeto Financeiro\bin\Debug\net7.0\appsettings.json
+C:\Users\gabri\OneDrive\Desktop\Projeto Financeiro\Projeto Financeiro\bin\Debug\net7.0\Projeto Financeiro.staticwebassets.runtime.json
+C:\Users\gabri\OneDrive\Desktop\Projeto Financeiro\Projeto Financeiro\bin\Debug\net7.0\Projeto Financeiro.exe
+C:\Users\gabri\OneDrive\Desktop\Projeto Financeiro\Projeto Financeiro\bin\Debug\net7.0\Projeto Financeiro.deps.json
+C:\Users\gabri\OneDrive\Desktop\Projeto Financeiro\Projeto Financeiro\bin\Debug\net7.0\Projeto Financeiro.runtimeconfig.json
+C:\Users\gabri\OneDrive\Desktop\Projeto Financeiro\Projeto Financeiro\bin\Debug\net7.0\Projeto Financeiro.dll
+C:\Users\gabri\OneDrive\Desktop\Projeto Financeiro\Projeto Financeiro\bin\Debug\net7.0\Projeto Financeiro.pdb
+C:\Users\gabri\OneDrive\Desktop\Projeto Financeiro\Projeto Financeiro\obj\Debug\net7.0\Projeto Financeiro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\OneDrive\Desktop\Projeto Financeiro\Projeto Financeiro\obj\Debug\net7.0\Projeto Financeiro.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Desktop\Projeto Financeiro\Projeto Financeiro\obj\Debug\net7.0\Projeto Financeiro.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Desktop\Projeto Financeiro\Projeto Financeiro\obj\Debug\net7.0\Projeto Financeiro.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Desktop\Projeto Financeiro\Projeto Financeiro\obj\Debug\net7.0\Projeto Financeiro.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\gabri\OneDrive\Desktop\Projeto Financeiro\Projeto Financeiro\obj\Debug\net7.0\Projeto Financeiro.RazorAssemblyInfo.cache
+C:\Users\gabri\OneDrive\Desktop\Projeto Financeiro\Projeto Financeiro\obj\Debug\net7.0\Projeto Financeiro.RazorAssemblyInfo.cs
+C:\Users\gabri\OneDrive\Desktop\Projeto Financeiro\Projeto Financeiro\obj\Debug\net7.0\Projeto Financeiro.sourcelink.json
+C:\Users\gabri\OneDrive\Desktop\Projeto Financeiro\Projeto Financeiro\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\gabri\OneDrive\Desktop\Projeto Financeiro\Projeto Financeiro\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\gabri\OneDrive\Desktop\Projeto Financeiro\Projeto Financeiro\obj\Debug\net7.0\staticwebassets\msbuild.Projeto Financeiro.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\gabri\OneDrive\Desktop\Projeto Financeiro\Projeto Financeiro\obj\Debug\net7.0\staticwebassets\msbuild.build.Projeto Financeiro.props
+C:\Users\gabri\OneDrive\Desktop\Projeto Financeiro\Projeto Financeiro\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Projeto Financeiro.props
+C:\Users\gabri\OneDrive\Desktop\Projeto Financeiro\Projeto Financeiro\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Projeto Financeiro.props
+C:\Users\gabri\OneDrive\Desktop\Projeto Financeiro\Projeto Financeiro\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\gabri\OneDrive\Desktop\Projeto Financeiro\Projeto Financeiro\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\gabri\OneDrive\Desktop\Projeto Financeiro\Projeto Financeiro\obj\Debug\net7.0\scopedcss\bundle\Projeto Financeiro.styles.css
+C:\Users\gabri\OneDrive\Desktop\Projeto Financeiro\Projeto Financeiro\obj\Debug\net7.0\scopedcss\projectbundle\Projeto Financeiro.bundle.scp.css
+C:\Users\gabri\OneDrive\Desktop\Projeto Financeiro\Projeto Financeiro\obj\Debug\net7.0\Projeto Financeiro.dll
+C:\Users\gabri\OneDrive\Desktop\Projeto Financeiro\Projeto Financeiro\obj\Debug\net7.0\refint\Projeto Financeiro.dll
+C:\Users\gabri\OneDrive\Desktop\Projeto Financeiro\Projeto Financeiro\obj\Debug\net7.0\Projeto Financeiro.pdb
+C:\Users\gabri\OneDrive\Desktop\Projeto Financeiro\Projeto Financeiro\obj\Debug\net7.0\Projeto Financeiro.genruntimeconfig.cache
+C:\Users\gabri\OneDrive\Desktop\Projeto Financeiro\Projeto Financeiro\obj\Debug\net7.0\ref\Projeto Financeiro.dll

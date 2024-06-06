@@ -1,0 +1,81 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+<!DOCTYPE html>
+<html lang="pt-br">
+<link rel="stylesheet" href="~/css/Pagina_Inicial.css" asp-append-version="true" />
+<head>
+  <meta charset="UTF-8">
+  <title>Facilita Finanças</title>
+  <link rel="stylesheet" href="styles.css">
+  
+</head>
+<body>
+  <main> class="barra">
+    <section id="inicio">
+            <h2>Transformo de maneira profissional o controle financeiro do seu negócio</h2>
+            <p>Assistente financeira para emprededores, autonômos, micros e pequenas empresas de prestadores de serviços
+        </section>
+    <section id="Principais serviços">
+            <h2>Principais serviços</h2>
+            <p>
+                <img src=~/calendario.jpg alt="imagem calendario" class="imgcalendario" />
+                <ul>
+                     Planejamento
+                    <li>Diagnóstico do planejamento Estratégico</li>
+                    <li>Organizamos o seu processo Financeiro</li>
+                    <li>Registramos e Controlamos as contas a pagar e receber</li>
+                </ul>
+            </p>
+            <p>
+                <img src=~/cartao.jpg alt="imagem cartao" class="imgcartao" />
+                <ul>
+                    Contas a receber e a pagar
+                    <li>Emissão de Nfs e envio para seus clientes</li>
+                    <li>Emissão de boletos e envio para seus clientes</li>
+                    <li>Conciliação bancaria</li>
+                    <li>Se desejar, nós agendamos seus pagamentos no intern</li>
+                </ul>
+            </p>
+            <p>
+                <img src=~/lupa.jpg alt="imagem lupa" class="imglupa" />
+                <ul>
+                    Monitoramento
+                    <li>Fluxo de caixa</li>
+                    <li>Relatório de clientes inadimplentes</li>
+                    <li>Relatório de contas atrasadas</li>
+                    <li>Relatório financeiro</li>
+                </ul>
+            </p>
+            </section>
+    <section id="Quem sou eu">
+        <h2>Quem sou eu</h2>
+            <img src=~/Neia5.jpg alt="imagem 5" class="img5" />
+            <p class ="texto">Sou Valdineia Paiva, formada em Gestão Financeira pela Instituição Unip Marques de São Vicente</p>
+
+            <p class="texto">Com mais de 15 anos de experiência no mundo corporativo exercendo atividades no ramo Financeiro, 
+                administrativo, gestão empresarial, atendimento ao cliente, faturamento e recursos humanos.
+                Nesse período, percebi grande dificuldade dos Empresários para organizar sua Vida Financeira</p>
+        </section>
+        <div id="area">
+            <form id="formulario" action="mailto:valdineipaiva@gmail.com" method="POST" enctype="text/plain">
+                <fieldset>
+                    <legend>Solicite um Orçamento</legend>
+                    <label>Nome:</label>
+                    <input class="campo_nome" type="text">
+                    <br>
+                    <label>Email:</label>
+                    <input class="campo_email" type="text">
+                    <br>
+                    <label>Mensagem:</label>
+                    <br>
+                    <textarea class="msg" cols="35" rows="8"></textarea>
+                    <br>
+                    <input class="btn_submit" type="submit" value="Enviar">
+                    <input type="reset" value="Limpar">
+                </fieldset>
+            </form>
+        </div> 
+  </main>
+</body>
+</html>
